@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "taskId": 1,
+            "title": "Buy Groceries",
+            "description": "Go to the market and buy the Groceries from the list",
+            "completion status": "false"
+        },
+        {
+            "taskId": 2,
+            "title": "Complete Lecture",
+            "description": "Go through the recording of the lecture",
+            "completion status": "true"
+        },
+        {
+            "taskId": 3,
+            "title": "Do Exercise",
+            "description": "Complete you daily exercise",
+            "completion status": "true"
+        }
+    ]
+}
